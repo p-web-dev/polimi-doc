@@ -12,8 +12,9 @@
 
 ## Accordion
 ### Scopo
-Realizzare blocchi di testo con un intestazione precedeuta, cliccando sull'intestazione il brlocco di testo si apre/chiude a fisarmonica, come succede per le FAQ.
-
+Blocchi di testo preceduti da intestazione, cliccando sull'intestazione il blocco di testo si apre/chiude a fisarmonica. Il comportamento è analogo alle FAQ, ma non serve ricorrere al modulo FAQ di typo3
+Su polimi test lo stile si applica impostando il valore Accordion nel campo Indentazioni e frames (nella scheda Aspetto)
+Su poliorientami lo stile si applica....
 ### Pagine di riferimento:
 - [polimi test pag 6553](http://www.test.polimi.it/index.php?id=6553)
 - [polimi test pag 6542](http://www.test.polimi.it/it/studenti/norme-e-regolamenti/esami/) 
@@ -23,7 +24,7 @@ Realizzare blocchi di testo con un intestazione precedeuta, cliccando sull'intes
 Uniformare la modalità di implementazione dello stile accordion tra i vari siti: polimi test e poliorientami
 ### Tecnico di Riferimento
 - Cristina: polimi test
-- Mmichele: poliorientami
+- Michele: poliorientami
 
 
 
