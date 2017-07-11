@@ -1,4 +1,4 @@
-# Elenco in ordine alfabetico degli stili di pagina usati nel sito polimi
+# Elenco in ordine alfabetico degli stili di pagina ricorrenti nei siti polimi
 * [Accordion](#accordion)
 * [Stile-2](#stile-2)
 * [Stile-3](#stile-3)
