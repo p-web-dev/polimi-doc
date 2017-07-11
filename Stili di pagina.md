@@ -28,5 +28,43 @@ Uniformare la modalità di implementazione dello stile accordion tra i vari siti
 - Michele: poliorientami
 
 
+## Sile-2
+### Scopo
+descrizone
+
+Su polimi test lo stile si applica ....
+Su poliorientami lo stile si applica....
+### Pagine di riferimento:
+- [polimi test pag ...](url-pagina)
+- [polimi test pag ...](url-pagina) 
+- [poliorientami] ???
+### Note redazionali
+eventuali note
+### Note tecniche
+eventuali note
+### Tecnico di Riferimento
+- Cristina: polimi test
+- Michele: poliorientami
+
+
+## Sile-2
+### Scopo
+descrizone
+
+Su polimi test lo stile si applica ....
+Su poliorientami lo stile si applica....
+### Pagine di riferimento:
+- [polimi test pag ...](url-pagina)
+- [polimi test pag ...](url-pagina) 
+- [poliorientami] ???
+### Note redazionali
+eventuali note
+### Note tecniche
+eventuali note
+### Tecnico di Riferimento
+- Cristina: polimi test
+- Michele: poliorientami
+
+
 
 
