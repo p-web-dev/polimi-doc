@@ -15,9 +15,9 @@
 Realizzare blocchi di testo con un intestazione precedeuta, cliccando sull'intestazione il brlocco di testo si apre/chiude a fisarmonica, come succede per le FAQ.
 
 ### Pagine di riferimento:
-- (polimi test pag 6553)[http://www.test.polimi.it/index.php?id=6553]
-- (polimi test pag 6542)[http://www.test.polimi.it/it/studenti/norme-e-regolamenti/esami/] 
-- (poliorientami) ???
+- [polimi test pag 6553](http://www.test.polimi.it/index.php?id=6553)
+- [polimi test pag 6542](http://www.test.polimi.it/it/studenti/norme-e-regolamenti/esami/) 
+- [poliorientami] ???
 ### Note redazionali
 ### Note tecniche
 Uniformare la modalità di implementazione dello stile accordion tra i vari siti: polimi test e poliorientami
