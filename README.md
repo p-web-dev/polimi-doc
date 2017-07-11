@@ -1,6 +1,6 @@
 # Documentazione progetti polimi
 
-* [Stili di pagina](polimi-doc/Stili di pagina.md)
+* [Stili di pagina](https://github.com/p-web-dev/polimi-doc/blob/master/Stili%20di%20pagina.md)
 
 ## Come scrivere la documentazione?
 Rispettare la sintassi markdown.
