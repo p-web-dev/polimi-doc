@@ -1,2 +1,6 @@
 # polimi-doc
-polimi project documentation
+Documnetazione tecnico redazionale per progetti polimi
+
+## Come organizzare la documentazione?
+Per 
+
