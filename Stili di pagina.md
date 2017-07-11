@@ -29,7 +29,7 @@ Uniformare la modalità di implementazione dello stile accordion tra i vari siti
 - Michele: poliorientami
 
 
-## Sile-2
+## Stile-2
 ### Scopo
 descrizone
 
@@ -48,7 +48,7 @@ eventuali note
 - Michele: poliorientami
 
 
-## Sile-3
+## Stile-3
 ### Scopo
 descrizone
 
