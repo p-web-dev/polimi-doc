@@ -12,7 +12,8 @@
 
 ## Accordion
 ### Scopo
-Blocchi di testo preceduti da intestazione, cliccando sull'intestazione il blocco di testo si apre/chiude a fisarmonica. Il comportamento è analogo alle FAQ, ma non serve ricorrere al modulo FAQ di typo3
+Blocchi di testo preceduti da intestazione, cliccando sull'intestazione il blocco di testo si apre/chiude a fisarmonica. Il comportamento è analogo alle FAQ, ma non serve ricorrere al modulo FAQ di typo3.
+
 Su polimi test lo stile si applica impostando il valore Accordion nel campo Indentazioni e frames (nella scheda Aspetto)
 Su poliorientami lo stile si applica....
 ### Pagine di riferimento:
