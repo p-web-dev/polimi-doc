@@ -21,6 +21,7 @@ Su poliorientami lo stile si applica....
 - [polimi test pag 6542](http://www.test.polimi.it/it/studenti/norme-e-regolamenti/esami/) 
 - [poliorientami] ???
 ### Note redazionali
+Quando viene inserito un elenco puntato, questo non viene indentato. Su Polimi.test abbiamo tamponato questo problema inserendo nella codifica un <div class="indent"> in corrispondenza del blocco ul/ol da indentare. Bisognerebbe trovare una soluzione a livello di stili css e ricordarsi di ripulire le pagine che sono state corrette a mano. 
 ### Note tecniche
 Uniformare la modalità di implementazione dello stile accordion tra i vari siti: polimi test e poliorientami
 ### Tecnico di Riferimento
