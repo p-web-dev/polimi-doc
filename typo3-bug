@@ -1,0 +1,1 @@
+2017.08.03: typo3 7.6 - www.mecc7.test.polimi.it - problema: image too dark (l'immagine inserita in un contenuto di tipo testo + immagine risulta scura come bruciata rispetto all'originale cericata in fileadmin). Per bypassare il problema applicare il filtro normalize all'immagine
